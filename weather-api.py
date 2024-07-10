@@ -1,4 +1,4 @@
-import request #can be installed using pip install requests
+import request 
 import os
 from datetime import datetime
 
